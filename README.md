@@ -33,64 +33,71 @@
 
 ## What I work with
 
-<!-- Skill cards / 2-column grid, image-first, minimal text -->
-<table align="center">
+<!-- Emphasize strengths first: AI/ML centered on top -->
+<table align="center" width="100%">
   <tr>
-    <td width="50%">
-      <h4>☁️ Cloud (AWS)</h4>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=aws&perline=6&v=2" alt="AWS"/>
+    <!-- Left wing -->
+    <td width="33%">
+      <h4 align="left">☁️ Cloud (AWS)</h4>
+      <p align="left">
+        <img src="https://skillicons.dev/icons?i=aws&v=2" height="28" alt="AWS"/>
       </p>
       <sub>Lambda · API Gateway · Amplify · DynamoDB · VPC · Bedrock · CloudWatch</sub>
     </td>
-    <td width="50%">
-      <h4>🌐 Web</h4>
+
+    <!-- Center focus -->
+    <td width="34%">
+      <h4 align="center">🧠 AI / ML (Focus)</h4>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=nextjs,fastapi&perline=6&v=2" alt="Next.js, FastAPI"/>
+        <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn&perline=3&v=2" height="28" alt="Python, PyTorch, scikit-learn"/>
       </p>
-      <sub>Next.js • FastAPI</sub>
+      <sub>
+        DL: LSTM, CNN, Transformer · ML: KNN, Linear Regression, Decision Tree · Optimizers: SGD, Adam, Momentum
+      </sub>
     </td>
-  </tr>
-  <tr>
-    <td>
-      <h4>🧠 AI / ML</h4>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=python,pytorch&perline=6&v=2" alt="Python, PyTorch"/>
-      </p>
-      <sub>DL: LSTM, CNN, Transformer • ML: KNN, Linear Regression, Decision Tree • Optimizers: SGD, Adam, Momentum</sub>
-    </td>
-    <td>
-      <h4>🗄️ Data & DB</h4>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=postgres&perline=6&v=2" alt="PostgreSQL"/>
+
+    <!-- Right wing -->
+    <td width="33%">
+      <h4 align="right">🗄️ Data & DB</h4>
+      <p align="right">
+        <img src="https://skillicons.dev/icons?i=postgres&v=2" height="28" alt="PostgreSQL"/>
       </p>
       <sub>PostgreSQL (AQO + ML for query optimization)</sub>
     </td>
   </tr>
+
   <tr>
     <td>
-      <h4>🚀 Ops</h4>
+      <h4>🌐 Web</h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=nextjs,fastapi&perline=2&v=2" height="28" alt="Next.js, FastAPI"/>
+      </p>
+      <sub>Next.js · FastAPI</sub>
+    </td>
+    <td>
+      <h4 align="center">🚀 Ops</h4>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=githubactions,git,docker&perline=6&v=2" alt="GitHub Actions, Git, Docker"/>
+        <img src="https://skillicons.dev/icons?i=githubactions,git,docker&perline=3&v=2" height="28" alt="GitHub Actions, Git, Docker"/>
       </p>
       <sub>CI/CD with GitHub Actions</sub>
     </td>
-    <td>
+    <td align="right">
       <h4>🧰 Platforms</h4>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=linux,windows&perline=6&v=2" alt="Linux, Windows"/>
+      <p align="right">
+        <img src="https://skillicons.dev/icons?i=linux,windows&perline=2&v=2" height="28" alt="Linux, Windows"/>
       </p>
       <sub>Linux & Windows</sub>
     </td>
   </tr>
+
   <tr>
-    <td colspan="2" align="center">
+    <td colspan="3" align="center">
       <h4>🎯 Agentic AI &amp; RAG</h4>
       <p>
-        <img src="https://img.shields.io/badge/LangChain-ready-111?style=flat-square&v=2" alt="LangChain"/>
-        <img src="https://img.shields.io/badge/LangGraph-orchestrate-111?style=flat-square&v=2" alt="LangGraph"/>
-        <img src="https://img.shields.io/badge/Ollama-local%20LLMs-111?style=flat-square&v=2" alt="Ollama"/>
-        <img src="https://img.shields.io/badge/RAG-built-111?style=flat-square&v=2" alt="RAG"/>
+        <img src="https://img.shields.io/badge/LangChain-ready-111?style=flat-square&v=3" alt="LangChain"/>
+        <img src="https://img.shields.io/badge/LangGraph-orchestrate-111?style=flat-square&v=3" alt="LangGraph"/>
+        <img src="https://img.shields.io/badge/Ollama-local%20LLMs-111?style=flat-square&v=3" alt="Ollama"/>
+        <img src="https://img.shields.io/badge/RAG-built-111?style=flat-square&v=3" alt="RAG"/>
       </p>
     </td>
   </tr>
