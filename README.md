@@ -44,7 +44,6 @@
       </p>
       <sub>Lambda · API Gateway · Amplify · DynamoDB · VPC · Bedrock · CloudWatch</sub>
     </td>
-
     <!-- Center focus -->
     <td width="34%">
       <h4 align="center">🧠 AI / ML (Focus)</h4>
@@ -55,7 +54,6 @@
         DL: LSTM, CNN, Transformer · ML: KNN, Linear Regression, Decision Tree · Optimizers: SGD, Adam, Momentum
       </sub>
     </td>
-
     <!-- Right wing -->
     <td width="33%">
       <h4 align="right">🗄️ Data & DB</h4>
@@ -65,7 +63,6 @@
       <sub>PostgreSQL (AQO + ML for query optimization)</sub>
     </td>
   </tr>
-
   <tr>
     <td>
       <h4>🌐 Web</h4>
