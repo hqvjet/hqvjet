@@ -1,162 +1,128 @@
-<!-- Profile README for @hqvjet -->
-<div align="center" id="top">
+<!--
+  Profile README for GitHub (HTML + inline CSS friendly to GitHub)
+  Replace all "hqvjet" with your GitHub username if needed.
+-->
 
-  <div style="padding: 22px 16px; border-radius: 18px; background: linear-gradient(135deg,#0f172a 0%, #1e293b 35%, #0a0f1f 100%); color: #e5e7eb; border: 1px solid #334155;">
-    <h1 style="margin: 0 0 6px 0; font-size: 2.2rem; letter-spacing:.5px;">Hi, I'm Raphael</h1>
-    <p style="margin: 0; font-size: 1.05rem; opacity:.9;">
-      Research student • IT (VPBank) • Ha Noi - Viet Nam
-    </p>
-    <p style="margin: 14px 0 0 0; font-size:.95rem; opacity:.85;">
-      I build with AI, ship on AWS, and keep things simple. Coffee helps. So does a good guitar lick. 🎸
-    </p>
-    <div style="margin-top:14px;">
-      <a href="#about" style="margin:4px 6px; text-decoration:none; padding:6px 10px; border-radius:10px; border:1px solid #334155; display:inline-block;">About</a>
-      <a href="#skills" style="margin:4px 6px; text-decoration:none; padding:6px 10px; border-radius:10px; border:1px solid #334155; display:inline-block;">Skills</a>
-      <a href="#projects" style="margin:4px 6px; text-decoration:none; padding:6px 10px; border-radius:10px; border:1px solid #334155; display:inline-block;">Projects</a>
-      <a href="#stats" style="margin:4px 6px; text-decoration:none; padding:6px 10px; border-radius:10px; border:1px solid #334155; display:inline-block;">Stats</a>
-      <a href="#contact" style="margin:4px 6px; text-decoration:none; padding:6px 10px; border-radius:10px; border:1px solid #334155; display:inline-block;">Contact</a>
-    </div>
-    <div style="margin-top:16px;">
-      <!-- Shields -->
-      <img alt="AWS" src="https://img.shields.io/badge/AWS-Expert-FF9900?logo=amazon-aws&logoColor=white" />
-      <img alt="Python" src="https://img.shields.io/badge/Python-ML%2FDL-3776AB?logo=python&logoColor=white" />
-      <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-2.x-EE4C2C?logo=pytorch&logoColor=white" />
-      <img alt="scikit-learn" src="https://img.shields.io/badge/sklearn-ML-FF9A00?logo=scikitlearn&logoColor=white" />
-      <img alt="Next.js" src="https://img.shields.io/badge/Next.js-14-000000?logo=nextdotjs&logoColor=white" />
-      <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-API-009688?logo=fastapi&logoColor=white" />
-      <img alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-AQO%20Research-336791?logo=postgresql&logoColor=white" />
-      <img alt="Linux" src="https://img.shields.io/badge/Linux-Friendly-FCC624?logo=linux&logoColor=black" />
-    </div>
+<!-- ====== HERO ====== -->
+<div align="center" style="padding: 18px; border-radius: 16px; background: linear-gradient(135deg,#f5f7ff,#f0fff4); border: 1px solid #eaeaea;">
+  <h1 style="margin: 0 0 8px 0; font-size: 36px;">Hi, I’m Viet 👋</h1>
+  <p style="margin: 6px 0 0 0; font-size: 16px;">
+    Research student & IT at <b>VPBank</b> · Based in <b>Hanoi, Vietnam</b>
+  </p>
+  <p style="margin: 8px 0 0 0; font-size: 14px;">
+    I build ML/AI things, ship cloud backends, and keep an eye on query optimizers.
+  </p>
+</div>
+
+<!-- ====== QUICK BADGES ====== -->
+<div align="center" style="margin-top: 12px;">
+  <img alt="Cloud" src="https://img.shields.io/badge/Cloud-AWS-232F3E?logo=amazon-aws&logoColor=white" />
+  <img alt="Backend" src="https://img.shields.io/badge/Backend-FastAPI%20%7C%20PostgreSQL-0A7E07?logo=fastapi&logoColor=white" />
+  <img alt="Frontend" src="https://img.shields.io/badge/Frontend-Next.js-000000?logo=nextdotjs" />
+  <img alt="DevOps" src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" />
+  <img alt="Agentic AI" src="https://img.shields.io/badge/Agentic%20AI-LangChain%20%7C%20LangGraph%20%7C%20Ollama-444" />
+</div>
+
+<!-- ====== ABOUT ====== -->
+<div style="margin-top: 18px; padding: 16px; border-radius: 14px; border: 1px solid #eee;">
+  <h2 style="margin: 0 0 10px 0;">About me</h2>
+  <p style="margin: 6px 0; line-height: 1.6; font-size: 14px;">
+    I enjoy simple, useful tools. I study <b>Deep Learning</b> (LSTM, CNN, Transformer) and
+    <b>Machine Learning</b> (KNN, Linear Regression, Decision Tree). I also explore <b>optimizers</b> like
+    SGD, Adam, and Momentum. On the systems side, I work with <b>AWS</b> (Lambda, API Gateway, Amplify,
+    DynamoDB, VPC, Bedrock, CloudWatch), <b>FastAPI</b>, <b>PostgreSQL</b>, and <b>Next.js</b>.
+    I know <b>PyTorch</b> and <b>scikit-learn</b>. I build <b>RAG</b> and <b>agentic AI</b> with
+    LangChain & LangGraph, sometimes with Ollama. Linux is my daily friend; Windows is my cousin.
+  </p>
+  <p style="margin: 6px 0; line-height: 1.6; font-size: 14px;">
+    Side quests: I play the guitar, read music theory, and speak English at <b>B1</b> level.
+  </p>
+</div>
+
+<!-- ====== SKILL ICONS ====== -->
+<div style="margin-top: 8px;" align="center">
+  <img src="https://skillicons.dev/icons?i=aws,fastapi,postgres,pytorch,sklearn,python,nextjs,react,ts,git,githubactions,linux,docker" alt="skills" />
+</div>
+
+<!-- ====== HIGHLIGHTS (CARDS) ====== -->
+<div style="margin-top: 18px; display: flex; flex-wrap: wrap; gap: 12px;">
+  <!-- Cloud -->
+  <div style="flex: 1 1 280px; border: 1px solid #eee; border-radius: 12px; padding: 12px;">
+    <h3 style="margin: 0 0 8px 0;">Cloud & DevOps</h3>
+    <ul style="margin: 0; padding-left: 18px; line-height: 1.6; font-size: 14px;">
+      <li>AWS: Lambda, API Gateway, Amplify, DynamoDB, VPC, Bedrock, CloudWatch</li>
+      <li>CI/CD with GitHub Actions</li>
+      <li>Infra that is small, clear, and monitored</li>
+    </ul>
   </div>
 
+  <!-- Backend / DB -->
+  <div style="flex: 1 1 280px; border: 1px solid #eee; border-radius: 12px; padding: 12px;">
+    <h3 style="margin: 0 0 8px 0;">Backend & Data</h3>
+    <ul style="margin: 0; padding-left: 18px; line-height: 1.6; font-size: 14px;">
+      <li>FastAPI services with clean routes</li>
+      <li>PostgreSQL with AQO-ML research (see repo below)</li>
+      <li>Next.js frontends for real users</li>
+    </ul>
+  </div>
+
+  <!-- AI / Agentic -->
+  <div style="flex: 1 1 280px; border: 1px solid #eee; border-radius: 12px; padding: 12px;">
+    <h3 style="margin: 0 0 8px 0;">AI & Agentic</h3>
+    <ul style="margin: 0; padding-left: 18px; line-height: 1.6; font-size: 14px;">
+      <li>Deep Learning: LSTM, CNN, Transformer</li>
+      <li>Machine Learning: KNN, Linear Regression, Decision Tree</li>
+      <li>Optimizers: SGD, Adam, Momentum</li>
+      <li>PyTorch · scikit-learn · RAG · LangChain · LangGraph · Ollama</li>
+    </ul>
+  </div>
 </div>
 
-<!-- ABOUT -->
-<h2 id="about" style="margin-top:28px;">About me</h2>
+<!-- ====== FEATURED WORK ====== -->
+<div style="margin-top: 18px;">
+  <h2 style="margin: 0 0 10px 0;">Featured repos</h2>
 
-<p style="line-height:1.6;">
-I am a research student and an IT person at VPBank. I live in Hà Nội, Việt Nam. I enjoy turning ideas into running systems.  
-My main lane is AI and platform work: deep learning, data, and clean infra. I like clear code, steady delivery, and small wins every day.
-</p>
-
-<ul style="line-height:1.7;">
-  <li><strong>AI/ML focus:</strong> Deep Learning (LSTM, CNN, Transformer), Machine Learning (KNN, Linear Regression, Decision Tree), Optimizers (SGD, Adam, Momentum).</li>
-  <li><strong>Infra & Dev:</strong> AWS (Lambda, API Gateway, Amplify, DynamoDB, VPC, Bedrock, CloudWatch), CI/CD with GitHub Actions.</li>
-  <li><strong>Apps:</strong> Next.js for frontends, FastAPI for services, PostgreSQL for data. I also research AQO + ML for query optimization with real results.</li>
-  <li><strong>Agentic AI:</strong> I work with LangChain, LangGraph, Ollama, and RAG patterns for practical agents.</li>
-  <li><strong>OS:</strong> Linux and Windows, both feel like home.</li>
-  <li><strong>Human bits:</strong> I play guitar, I know music theory, and my English is B1. No drama, just steady growth.</li>
-</ul>
-
-<!-- Skill Map -->
-
-<div align="center">
-
-  <table>
-    <tr>
-      <td align="center" width="200">
-        <b>AI & ML</b><br/>
-        <img src="https://skillicons.dev/icons?i=python,pytorch" width="100"/><br/>
-        Deep Learning (LSTM, CNN, Transformer)<br/>
-        Machine Learning (KNN, Linear Regression, Decision Tree)<br/>
-        Optimizers (SGD, Adam, Momentum)<br/>
-        Agentic AI: LangChain, LangGraph, Ollama, RAG
-      </td>
-      <td align="center" width="200">
-        <b>Cloud & Ops</b><br/>
-        <img src="https://skillicons.dev/icons?i=aws,githubactions,linux" width="100"/><br/>
-        AWS (Lambda, API Gateway, Amplify, DynamoDB, VPC, Bedrock, CloudWatch) – comfortable<br/>
-        CI/CD with GitHub Actions<br/>
-        Linux & Windows
-      </td>
-      <td align="center" width="200">
-        <b>Apps & Data</b><br/>
-        <img src="https://skillicons.dev/icons?i=nextjs,fastapi,postgres" width="100"/><br/>
-        Next.js for frontends<br/>
-        FastAPI for backend services<br/>
-        PostgreSQL (AQO + ML research)
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!-- PROJECTS -->
-<h2 id="projects" style="margin-top:26px;">Featured projects</h2>
-
-<p style="margin: 6px 0 14px 0;">
-Here are live cards and links. Click to explore code and results.
-</p>
-
-<div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap:14px;">
-
-  <!-- AQO research pin -->
-  <a href="https://github.com/hqvjet/aqo" style="text-decoration:none;">
-    <img
-      alt="Pinned Repo: aqo"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=hqvjet&repo=aqo&theme=transparent&hide_border=true"
-      />
+  <!-- My repo (AQO) -->
+  <a href="https://github.com/hqvjet/aqo">
+    <img alt="aqo pinned" src="https://github-readme-stats.vercel.app/api/pin/?username=hqvjet&repo=aqo" />
   </a>
 
-  <!-- Replace or duplicate with other public repos you want to pin -->
-  <a href="https://github.com/hqvjet" style="text-decoration:none;">
-    <img
-      alt="Pinned Repo: another project"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=hqvjet&repo=awesome-project&theme=transparent&hide_border=true"
-      />
-  </a>
-
+  <!-- External repos (embed pin cards) -->
+  <div style="display:flex; flex-wrap: wrap; gap: 8px; margin-top: 8px;">
+    <a href="https://github.com/langchain-ai/langgraph">
+      <img alt="langgraph pinned" src="https://github-readme-stats.vercel.app/api/pin/?username=langchain-ai&repo=langgraph" />
+    </a>
+    <a href="https://github.com/langchain-ai/langchain">
+      <img alt="langchain pinned" src="https://github-readme-stats.vercel.app/api/pin/?username=langchain-ai&repo=langchain" />
+    </a>
+    <a href="https://github.com/ollama/ollama">
+      <img alt="ollama pinned" src="https://github-readme-stats.vercel.app/api/pin/?username=ollama&repo=ollama" />
+    </a>
+    <a href="https://github.com/tiangolo/fastapi">
+      <img alt="fastapi pinned" src="https://github-readme-stats.vercel.app/api/pin/?username=tiangolo&repo=fastapi" />
+    </a>
+    <a href="https://github.com/pytorch/pytorch">
+      <img alt="pytorch pinned" src="https://github-readme-stats.vercel.app/api/pin/?username=pytorch&repo=pytorch" />
+    </a>
+  </div>
 </div>
 
-<p style="font-size:.9rem; opacity:.8; margin-top:8px;">
-Tip: change <code>awesome-project</code> above to your real repo names, or duplicate the card blocks to show more.
-</p>
-
-<!-- STATS -->
-<h2 id="stats" style="margin-top:26px;">Numbers, but friendly</h2>
-
-<div align="center" style="margin-top:8px;">
-  <img alt="Streak" src="https://streak-stats.demolab.com?user=hqvjet&theme=transparent&hide_border=true" />
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hqvjet&show_icons=true&theme=transparent&hide_border=true&rank_icon=percentile" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hqvjet&layout=compact&theme=transparent&hide_border=true" />
+<!-- ====== STATS ====== -->
+<div style="margin-top: 18px; display: flex; flex-wrap: wrap; gap: 12px;">
+  <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=hqvjet&show_icons=true&include_all_commits=true&rank_icon=github" />
+  <img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hqvjet&layout=compact&langs_count=8" />
+  <img alt="streak" src="https://streak-stats.demolab.com?user=hqvjet" />
 </div>
 
-<div align="center" style="margin-top:12px;">
-  <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=hqvjet&theme=flat&column=7&no-frame=true" />
+<!-- ====== CONTACT / NOTES ====== -->
+<div style="margin-top: 18px; padding: 12px; border: 1px dashed #ddd; border-radius: 12px;">
+  <details>
+    <summary><b>Notes</b> (click to open)</summary>
+    <ul style="margin: 8px 0 0 0; padding-left: 18px; line-height: 1.6; font-size: 14px;">
+      <li>This README uses external image cards (stats, pins). If a card fails to load,
+        refresh or check the service status.</li>
+      <li>Want to chat? Open an issue in this repo.</li>
+      <li>Music break: sometimes I post small guitar tabs.</li>
+    </ul>
+  </details>
 </div>
-
-<div align="center" style="margin-top:12px;">
-  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=hqvjet&theme=github-compact&hide_border=true" />
-</div>
-
-<!-- MINI CASE STUDY -->
-<h2 style="margin-top:26px;">Mini case: Postgres AQO + ML</h2>
-
-<p style="line-height:1.6;">
-I explore ML-based query optimization in PostgreSQL using AQO.  
-Goal: learn patterns from real workloads and guide better plans.  
-Result: faster queries on tested cases, simpler tuning steps.  
-Repo: <a href="https://github.com/hqvjet/aqo">hqvjet/aqo</a>.
-</p>
-
-<!-- WHAT I LIKE TO BUILD -->
-<h2 style="margin-top:26px;">What I like to build</h2>
-
-<ul style="line-height:1.7;">
-  <li>Practical agents with clear tools and safe rails.</li>
-  <li>APIs that are boring to maintain (the good kind).</li>
-  <li>Small frontends that feel fast and honest.</li>
-  <li>Data paths that make query planners smile.</li>
-</ul>
-
-<!-- CONTACT -->
-<h2 id="contact" style="margin-top:26px;">Contact</h2>
-
-<p>
-If you want to talk about AI, agents, or cloud, reach out on GitHub.  
-If you want to jam, bring a guitar. I will bring chords and coffee.
-</p>
-
-<!-- FOOTER -->
-<p align="right" style="opacity:.7; font-size:.9rem;">
-Made with clear words, small steps, and curiosity.
-</p>
