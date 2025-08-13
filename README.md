@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Việt 👋</h1>
 
 <p align="center">
-  <strong>Research student</strong> &amp; <strong>IT staff @ VPBank</strong> • Hanoi, Viet Nam 🇻🇳
+  <strong>Research student</strong> • Danang &amp; <strong>IT staff @ VPBank</strong> • Hanoi, Viet Nam 🇻🇳
 </p>
 
 <p align="center">
@@ -105,15 +105,6 @@
   <b>🎯 Agentic AI &amp; RAG</b><br/>
   <code>LangChain</code> <code>LangGraph</code> <code>Ollama</code> <code>RAG</code>
 </p>
-
-<!-- Optional details (kept folded to avoid “đọc sớ”) -->
-<details>
-  <summary><i>More details (open if you like specs)</i></summary>
-
-- Pipelines: data → training → eval → deploy on AWS  
-- RAG: chunking, retrieval tuning, evals  
-- Orchestration: LangGraph (tools, state, guards)
-</details>
 
 ---
 
