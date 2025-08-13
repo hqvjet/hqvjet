@@ -44,49 +44,103 @@
   <img src="https://skillicons.dev/icons?i=aws,fastapi,postgres,pytorch,sklearn,python,nextjs,react,ts,git,githubactions,linux,docker" alt="skills" />
 </div>
 
-<!-- ====== HIGHLIGHTS (CARDS) ====== -->
+<!-- ====== HIGHLIGHTS (CARDS) v2 ====== -->
 <div style="margin-top: 18px; display: flex; flex-wrap: wrap; gap: 12px;">
-  <!-- Cloud -->
+
+  <!-- Cloud & DevOps -->
   <div style="flex: 1 1 280px; border: 1px solid #eee; border-radius: 12px; padding: 12px;">
-    <h3 style="margin: 0 0 8px 0;">Cloud & DevOps</h3>
-    <ul style="margin: 0; padding-left: 18px; line-height: 1.6; font-size: 14px;">
-      <li>AWS: Lambda, API Gateway, Amplify, DynamoDB, VPC, Bedrock, CloudWatch</li>
-      <li>CI/CD with GitHub Actions</li>
-      <li>Infra that is small, clear, and monitored</li>
-    </ul>
+    <div style="display:flex; align-items:center; gap:8px; margin-bottom:8px;">
+      <img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="22" />
+      <h3 style="margin:0; font-size:16px;">Cloud & DevOps</h3>
+    </div>
+    <div style="display:flex; flex-wrap:wrap; gap:8px;">
+      <span style="display:inline-flex;align-items:center;gap:6px;padding:6px 10px;border:1px solid #eee;border-radius:999px;background:#fff;box-shadow:0 1px 0 #f3f3f3;font-size:13px;">⚡ Lambda</span>
+      <span style="display:inline-flex;align-items:center;gap:6px;padding:6px 10px;border:1px solid #eee;border-radius:999px;background:#fff;box-shadow:0 1px 0 #f3f3f3;font-size:13px;">🚪 API Gateway</span>
+      <span style="display:inline-flex;align-items:center;gap:6px;padding:6px 10px;border:1px solid #eee;border-radius:999px;background:#fff;box-shadow:0 1px 0 #f3f3f3;font-size:13px;">🚀 Amplify</span>
+      <span style="display:inline-flex;align-items:center;gap:6px;padding:6px 10px;border:1px solid #eee;border-radius:999px;background:#fff;box-shadow:0 1px 0 #f3f3f3;font-size:13px;">🧮 DynamoDB</span>
+      <span style="display:inline-flex;align-items:center;gap:6px;padding:6px 10px;border:1px solid #eee;border-radius:999px;background:#fff;box-shadow:0 1px 0 #f3f3f3;font-size:13px;">🌐 VPC</span>
+      <span style="display:inline-flex;align-items:center;gap:6px;padding:6px 10px;border:1px solid #eee;border-radius:999px;background:#fff;box-shadow:0 1px 0 #f3f3f3;font-size:13px;">🧠 Bedrock</span>
+      <span style="display:inline-flex;align-items:center;gap:6px;padding:6px 10px;border:1px solid #eee;border-radius:999px;background:#fff;box-shadow:0 1px 0 #f3f3f3;font-size:13px;">👀 CloudWatch</span>
+      <span style="display:inline-flex;align-items:center;gap:6px;padding:6px 10px;border:1px solid #eee;border-radius:999px;background:#fff;box-shadow:0 1px 0 #f3f3f3;font-size:13px;">
+        <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" height="16" /> GitHub Actions
+      </span>
+      <span style="display:inline-flex;align-items:center;gap:6px;padding:6px 10px;border:1px solid #eee;border-radius:999px;background:#fff;box-shadow:0 1px 0 #f3f3f3;font-size:13px;">
+        <img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="16" /> Docker
+      </span>
+      <span style="display:inline-flex;align-items:center;gap:6px;padding:6px 10px;border:1px solid #eee;border-radius:999px;background:#fff;box-shadow:0 1px 0 #f3f3f3;font-size:13px;">
+        <img src="https://skillicons.dev/icons?i=linux" alt="Linux" height="16" /> Linux
+      </span>
+    </div>
   </div>
 
-  <!-- Backend / DB -->
+  <!-- Backend & Data -->
   <div style="flex: 1 1 280px; border: 1px solid #eee; border-radius: 12px; padding: 12px;">
-    <h3 style="margin: 0 0 8px 0;">Backend & Data</h3>
-    <ul style="margin: 0; padding-left: 18px; line-height: 1.6; font-size: 14px;">
-      <li>FastAPI services with clean routes</li>
-      <li>PostgreSQL with AQO-ML research</li>
-      <li>Next.js frontends for real users</li>
-    </ul>
+    <div style="display:flex; align-items:center; gap:8px; margin-bottom:8px;">
+      <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" height="22" />
+      <h3 style="margin:0; font-size:16px;">Backend & Data</h3>
+    </div>
+    <div style="display:flex; flex-wrap:wrap; gap:8px;">
+      <span style="display:inline-flex;align-items:center;gap:6px;padding:6px 10px;border:1px solid #eee;border-radius:999px;background:#fff;box-shadow:0 1px 0 #f3f3f3;font-size:13px;">
+        <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" height="16" /> FastAPI
+      </span>
+      <span style="display:inline-flex;align-items:center;gap:6px;padding:6px 10px;border:1px solid #eee;border-radius:999px;background:#fff;box-shadow:0 1px 0 #f3f3f3;font-size:13px;">
+        <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" height="16" /> PostgreSQL
+      </span>
+      <a href="https://github.com/hqvjet/aqo" style="text-decoration:none; color:inherit;">
+        <span style="display:inline-flex;align-items:center;gap:6px;padding:6px 10px;border:1px solid #bfe0ff;border-radius:999px;background:#f5fbff;box-shadow:0 1px 0 #e3f2ff;font-size:13px;">
+          📈 AQO-ML (research)
+        </span>
+      </a>
+      <span style="display:inline-flex;align-items:center;gap:6px;padding:6px 10px;border:1px solid #eee;border-radius:999px;background:#fff;box-shadow:0 1px 0 #f3f3f3;font-size:13px;">
+        <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" height="16" /> Next.js
+      </span>
+      <span style="display:inline-flex;align-items:center;gap:6px;padding:6px 10px;border:1px solid #eee;border-radius:999px;background:#fff;box-shadow:0 1px 0 #f3f3f3;font-size:13px;">
+        <img src="https://skillicons.dev/icons?i=python" alt="Python" height="16" /> Python
+      </span>
+      <span style="display:inline-flex;align-items:center;gap:6px;padding:6px 10px;border:1px solid #eee;border-radius:999px;background:#fff;box-shadow:0 1px 0 #f3f3f3;font-size:13px;">🧩 REST APIs</span>
+      <span style="display:inline-flex;align-items:center;gap:6px;padding:6px 10px;border:1px solid #eee;border-radius:999px;background:#fff;box-shadow:0 1px 0 #f3f3f3;font-size:13px;">🗃️ SQL</span>
+    </div>
   </div>
 
-  <!-- AI / Agentic -->
+  <!-- AI & Agentic -->
   <div style="flex: 1 1 280px; border: 1px solid #eee; border-radius: 12px; padding: 12px;">
-    <h3 style="margin: 0 0 8px 0;">AI & Agentic</h3>
-    <ul style="margin: 0; padding-left: 18px; line-height: 1.6; font-size: 14px;">
-      <li>Deep Learning: LSTM, CNN, Transformer</li>
-      <li>Machine Learning: KNN, Linear Regression, Decision Tree</li>
-      <li>Optimizers: SGD, Adam, Momentum</li>
-      <li>PyTorch · scikit-learn · RAG · LangChain · LangGraph · Ollama</li>
-    </ul>
+    <div style="display:flex; align-items:center; gap:8px; margin-bottom:8px;">
+      <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" height="22" />
+      <h3 style="margin:0; font-size:16px;">AI & Agentic</h3>
+    </div>
+    <div style="display:flex; flex-wrap:wrap; gap:8px;">
+      <span style="display:inline-flex;align-items:center;gap:6px;padding:6px 10px;border:1px solid #eee;border-radius:999px;background:#fff;box-shadow:0 1px 0 #f3f3f3;font-size:13px;">
+        <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" height="16" /> PyTorch
+      </span>
+      <span style="display:inline-flex;align-items:center;gap:6px;padding:6px 10px;border:1px solid #eee;border-radius:999px;background:#fff;box-shadow:0 1px 0 #f3f3f3;font-size:13px;">
+        <img src="https://skillicons.dev/icons?i=sklearn" alt="scikit-learn" height="16" /> scikit-learn
+      </span>
+      <span style="display:inline-flex;align-items:center;gap:6px;padding:6px 10px;border:1px solid #eee;border-radius:999px;background:#fff;box-shadow:0 1px 0 #f3f3f3;font-size:13px;">🧠 LSTM</span>
+      <span style="display:inline-flex;align-items:center;gap:6px;padding:6px 10px;border:1px solid #eee;border-radius:999px;background:#fff;box-shadow:0 1px 0 #f3f3f3;font-size:13px;">🧠 CNN</span>
+      <span style="display:inline-flex;align-items:center;gap:6px;padding:6px 10px;border:1px solid #eee;border-radius:999px;background:#fff;box-shadow:0 1px 0 #f3f3f3;font-size:13px;">🧠 Transformer</span>
+      <span style="display:inline-flex;align-items:center;gap:6px;padding:6px 10px;border:1px solid #eee;border-radius:999px;background:#fff;box-shadow:0 1px 0 #f3f3f3;font-size:13px;">📦 RAG</span>
+      <span style="display:inline-flex;align-items:center;gap:6px;padding:6px 10px;border:1px solid #eee;border-radius:999px;background:#fff;box-shadow:0 1px 0 #f3f3f3;font-size:13px;">🔗 LangChain</span>
+      <span style="display:inline-flex;align-items:center;gap:6px;padding:6px 10px;border:1px solid #eee;border-radius:999px;background:#fff;box-shadow:0 1px 0 #f3f3f3;font-size:13px;">🕸️ LangGraph</span>
+      <span style="display:inline-flex;align-items:center;gap:6px;padding:6px 10px;border:1px solid #eee;border-radius:999px;background:#fff;box-shadow:0 1px 0 #f3f3f3;font-size:13px;">🧩 Ollama</span>
+      <span style="display:inline-flex;align-items:center;gap:6px;padding:6px 10px;border:1px solid #eee;border-radius:999px;background:#fff;box-shadow:0 1px 0 #f3f3f3;font-size:13px;">⚙️ SGD · Adam · Momentum</span>
+    </div>
   </div>
+
 </div>
 
-<!-- ====== CONTACT / NOTES ====== -->
+<!-- ====== CONTACT ====== -->
 <div style="margin-top: 18px; padding: 12px; border: 1px dashed #ddd; border-radius: 12px;">
-  <details>
-    <summary><b>Notes</b> (click to open)</summary>
-    <ul style="margin: 8px 0 0 0; padding-left: 18px; line-height: 1.6; font-size: 14px;">
-      <li>This README uses external image cards (stats, pins). If a card fails to load,
-        refresh or check the service status.</li>
-      <li>Want to chat? Open an issue in this repo.</li>
-      <li>Music break: sometimes I post small guitar tabs.</li>
-    </ul>
-  </details>
+  <h3 style="margin:0 0 8px 0; font-size:16px;">Contact</h3>
+  <ul style="margin: 8px 0 0 0; padding-left: 18px; line-height: 1.8; font-size: 14px;">
+    <li>
+      ✉️ <a href="mailto:viethq.1906@gmail.com">viethq.1906@gmail.com</a>
+    </li>
+    <li>
+      📞 <a href="tel:+84838575535">+84 83 857 5535</a>
+    </li>
+    <li style="display:flex; align-items:center; gap:6px;">
+      <img src="https://cdn.simpleicons.org/facebook/1877F2" alt="Facebook" height="16" />
+      <a href="https://www.facebook.com/sow1906">facebook.com/sow1906</a>
+    </li>
+  </ul>
 </div>
