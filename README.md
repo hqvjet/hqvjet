@@ -2,7 +2,7 @@
 <div align="center" id="top">
 
   <div style="padding: 22px 16px; border-radius: 18px; background: linear-gradient(135deg,#0f172a 0%, #1e293b 35%, #0a0f1f 100%); color: #e5e7eb; border: 1px solid #334155;">
-    <h1 style="margin: 0 0 6px 0; font-size: 2.2rem; letter-spacing:.5px;">Hi, I'm Việt</h1>
+    <h1 style="margin: 0 0 6px 0; font-size: 2.2rem; letter-spacing:.5px;">Hi, I'm Raphael</h1>
     <p style="margin: 0; font-size: 1.05rem; opacity:.9;">
       Research student • IT (VPBank) • Ha Noi - Viet Nam
     </p>
@@ -48,40 +48,36 @@ My main lane is AI and platform work: deep learning, data, and clean infra. I li
   <li><strong>Human bits:</strong> I play guitar, I know music theory, and my English is B1. No drama, just steady growth.</li>
 </ul>
 
-<!-- SKILLS -->
-<h2 id="skills" style="margin-top:26px;">Skill map</h2>
+<!-- Skill Map -->
 
-<div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap:14px;">
-  <div style="border:1px solid #e5e7eb; border-radius:14px; padding:12px;">
-    <h3 style="margin:6px 0 8px 0;">AI & ML</h3>
-    <ul>
-      <li>PyTorch, scikit-learn</li>
-      <li>LSTM, CNN, Transformer</li>
-      <li>KNN, Linear Regression, Decision Tree</li>
-      <li>Optimizers: SGD, Adam, Momentum</li>
-      <li>RAG, Agentic AI (LangChain, LangGraph, Ollama)</li>
-    </ul>
-  </div>
+<div align="center">
 
-  <div style="border:1px solid #e5e7eb; border-radius:14px; padding:12px;">
-    <h3 style="margin:6px 0 8px 0;">Cloud & Ops</h3>
-    <ul>
-      <li>AWS: Lambda, API Gateway, Amplify</li>
-      <li>DynamoDB, VPC, Bedrock, CloudWatch</li>
-      <li>CI/CD: GitHub Actions</li>
-      <li>Linux & Windows</li>
-    </ul>
-  </div>
-
-  <div style="border:1px solid #e5e7eb; border-radius:14px; padding:12px;">
-    <h3 style="margin:6px 0 8px 0;">Apps & Data</h3>
-    <ul>
-      <li>Next.js (SSR/ISR)</li>
-      <li>FastAPI (async, typed)</li>
-      <li>PostgreSQL (AQO + ML research)</li>
-      <li>Clean APIs, small services</li>
-    </ul>
-  </div>
+  <table>
+    <tr>
+      <td align="center" width="200">
+        <b>AI & ML</b><br/>
+        <img src="https://skillicons.dev/icons?i=python,pytorch" width="100"/><br/>
+        Deep Learning (LSTM, CNN, Transformer)<br/>
+        Machine Learning (KNN, Linear Regression, Decision Tree)<br/>
+        Optimizers (SGD, Adam, Momentum)<br/>
+        Agentic AI: LangChain, LangGraph, Ollama, RAG
+      </td>
+      <td align="center" width="200">
+        <b>Cloud & Ops</b><br/>
+        <img src="https://skillicons.dev/icons?i=aws,githubactions,linux" width="100"/><br/>
+        AWS (Lambda, API Gateway, Amplify, DynamoDB, VPC, Bedrock, CloudWatch) – comfortable<br/>
+        CI/CD with GitHub Actions<br/>
+        Linux & Windows
+      </td>
+      <td align="center" width="200">
+        <b>Apps & Data</b><br/>
+        <img src="https://skillicons.dev/icons?i=nextjs,fastapi,postgres" width="100"/><br/>
+        Next.js for frontends<br/>
+        FastAPI for backend services<br/>
+        PostgreSQL (AQO + ML research)
+      </td>
+    </tr>
+  </table>
 </div>
 
 <!-- PROJECTS -->
