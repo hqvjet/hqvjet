@@ -1,12 +1,10 @@
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=hqvjet&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 <!-- Profile README for @hqvjet -->
 <div align="center" id="top">
 
   <div style="padding: 22px 16px; border-radius: 18px; background: linear-gradient(135deg,#0f172a 0%, #1e293b 35%, #0a0f1f 100%); color: #e5e7eb; border: 1px solid #334155;">
     <h1 style="margin: 0 0 6px 0; font-size: 2.2rem; letter-spacing:.5px;">Hi, I'm Việt</h1>
     <p style="margin: 0; font-size: 1.05rem; opacity:.9;">
-      Research student • IT (VPBank) • Hà Nội, Việt Nam
+      Research student • IT (VPBank) • Ha Noi - Viet Nam
     </p>
 
     <p style="margin: 14px 0 0 0; font-size:.95rem; opacity:.85;">
