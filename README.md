@@ -33,13 +33,68 @@
 
 ## What I work with
 
-- **Cloud (AWS):** Lambda, API Gateway, Amplify, DynamoDB, VPC, Bedrock, CloudWatch  
-- **Web:** Next.js • FastAPI  
-- **Data & DB:** PostgreSQL (AQO + ML for query optimization)  
-- **AI/ML:** DL (LSTM, CNN, Transformer) • ML (KNN, Linear Regression, Decision Tree) • Optimizers (SGD, Adam, Momentum)  
-- **Frameworks:** PyTorch, scikit-learn, LangChain, LangGraph, Ollama, RAG  
-- **Ops:** CI/CD with GitHub Actions • Linux & Windows  
-- **Also me:** 🎸 guitar, music theory • English B1
+<!-- Skill cards / 2-column grid, image-first, minimal text -->
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h4>☁️ Cloud (AWS)</h4>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=aws&perline=6&v=2" alt="AWS"/>
+      </p>
+      <sub>Lambda · API Gateway · Amplify · DynamoDB · VPC · Bedrock · CloudWatch</sub>
+    </td>
+    <td width="50%">
+      <h4>🌐 Web</h4>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=nextjs,fastapi&perline=6&v=2" alt="Next.js, FastAPI"/>
+      </p>
+      <sub>Next.js • FastAPI</sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h4>🧠 AI / ML</h4>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=python,pytorch&perline=6&v=2" alt="Python, PyTorch"/>
+      </p>
+      <sub>DL: LSTM, CNN, Transformer • ML: KNN, Linear Regression, Decision Tree • Optimizers: SGD, Adam, Momentum</sub>
+    </td>
+    <td>
+      <h4>🗄️ Data & DB</h4>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=postgres&perline=6&v=2" alt="PostgreSQL"/>
+      </p>
+      <sub>PostgreSQL (AQO + ML for query optimization)</sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h4>🚀 Ops</h4>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=githubactions,git,docker&perline=6&v=2" alt="GitHub Actions, Git, Docker"/>
+      </p>
+      <sub>CI/CD with GitHub Actions</sub>
+    </td>
+    <td>
+      <h4>🧰 Platforms</h4>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=linux,windows&perline=6&v=2" alt="Linux, Windows"/>
+      </p>
+      <sub>Linux & Windows</sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <h4>🎯 Agentic AI &amp; RAG</h4>
+      <p>
+        <img src="https://img.shields.io/badge/LangChain-ready-111?style=flat-square&v=2" alt="LangChain"/>
+        <img src="https://img.shields.io/badge/LangGraph-orchestrate-111?style=flat-square&v=2" alt="LangGraph"/>
+        <img src="https://img.shields.io/badge/Ollama-local%20LLMs-111?style=flat-square&v=2" alt="Ollama"/>
+        <img src="https://img.shields.io/badge/RAG-built-111?style=flat-square&v=2" alt="RAG"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
