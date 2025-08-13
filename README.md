@@ -6,11 +6,9 @@
     <p style="margin: 0; font-size: 1.05rem; opacity:.9;">
       Research student • IT (VPBank) • Ha Noi - Viet Nam
     </p>
-
     <p style="margin: 14px 0 0 0; font-size:.95rem; opacity:.85;">
       I build with AI, ship on AWS, and keep things simple. Coffee helps. So does a good guitar lick. 🎸
     </p>
-
     <div style="margin-top:14px;">
       <a href="#about" style="margin:4px 6px; text-decoration:none; padding:6px 10px; border-radius:10px; border:1px solid #334155; display:inline-block;">About</a>
       <a href="#skills" style="margin:4px 6px; text-decoration:none; padding:6px 10px; border-radius:10px; border:1px solid #334155; display:inline-block;">Skills</a>
@@ -18,7 +16,6 @@
       <a href="#stats" style="margin:4px 6px; text-decoration:none; padding:6px 10px; border-radius:10px; border:1px solid #334155; display:inline-block;">Stats</a>
       <a href="#contact" style="margin:4px 6px; text-decoration:none; padding:6px 10px; border-radius:10px; border:1px solid #334155; display:inline-block;">Contact</a>
     </div>
-
     <div style="margin-top:16px;">
       <!-- Shields -->
       <img alt="AWS" src="https://img.shields.io/badge/AWS-Expert-FF9900?logo=amazon-aws&logoColor=white" />
