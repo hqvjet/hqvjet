@@ -39,19 +39,20 @@ New tech? I jump in.</i>
 
 ## Snapshots
 
-<!-- Clean 2-column grid + unified theme -->
 <table align="center">
   <tr>
     <td width="50%" align="center">
+      <!-- Stable stats: no include_all_commits to avoid API failures -->
       <img
-        src="https://github-readme-stats.vercel.app/api?username=hqvjet&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight"
-        width="100%"
+        src="https://github-readme-stats.vercel.app/api?username=hqvjet&show_icons=true&hide_title=false&hide_border=true&rank_icon=percentile&cache_seconds=21600&theme=tokyonight&v=2"
         alt="GitHub stats"
+        width="100%"
+        loading="lazy"
       />
     </td>
     <td width="50%" align="center">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=hqvjet&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=hqvjet&layout=compact&langs_count=8&hide_border=true&cache_seconds=21600&theme=tokyonight&v=2"
         alt="Top languages"
         width="100%"
         loading="lazy"
@@ -61,8 +62,8 @@ New tech? I jump in.</i>
   <tr>
     <td colspan="2" align="center">
       <img
-        src="https://streak-stats.demolab.com?user=hqvjet&theme=tokyonight&hide_border=true"
-        alt="GitHub streak"
+        src="https://streak-stats.demolab.com?user=hqvjet&hide_border=true&theme=tokyonight&date_format=M%20j%5B,%20Y%5D&v=2"
+        alt="Contribution streak"
         width="96%"
         loading="lazy"
       />
@@ -70,9 +71,8 @@ New tech? I jump in.</i>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <!-- Trophy trimmed to one line; only the useful ones -->
       <img
-        src="https://github-profile-trophy.vercel.app/?username=hqvjet&theme=onedark&no-bg=true&no-frame=true&row=1&column=7&margin-w=10&margin-h=10&title=MultiLanguage,Commit,PullRequest,Issues,Repositories,Stars,Followers"
+        src="https://github-profile-trophy.vercel.app/?username=hqvjet&no-bg=true&no-frame=true&row=1&column=7&margin-w=10&margin-h=10&theme=onedark&title=MultiLanguage,Commit,PullRequest,Repositories,Stars,Followers,Issues&v=2"
         alt="Trophies"
         width="96%"
         loading="lazy"
@@ -80,6 +80,7 @@ New tech? I jump in.</i>
     </td>
   </tr>
 </table>
+
 
 ---
 
