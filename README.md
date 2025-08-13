@@ -5,9 +5,9 @@
 
 <!-- ====== HERO ====== -->
 <div align="center" style="padding: 18px; border-radius: 16px; background: linear-gradient(135deg,#f5f7ff,#f0fff4); border: 1px solid #eaeaea;">
-  <h1 style="margin: 0 0 8px 0; font-size: 36px;">Hi, I’m Viet 👋</h1>
+  <h1 style="margin: 0 0 8px 0; font-size: 36px;">Hi, I’m Raphael 👋</h1>
   <p style="margin: 6px 0 0 0; font-size: 16px;">
-    Research student & IT at <b>VPBank</b> · Based in <b>Hanoi, Vietnam</b>
+    Research student at <b>VKU</b> - <b>Da Nang</b> & IT at <b>VPBank</b> - <b>Hanoi, Vietnam</b>
   </p>
   <p style="margin: 8px 0 0 0; font-size: 14px;">
     I build ML/AI things, ship cloud backends, and keep an eye on query optimizers.
@@ -61,7 +61,7 @@
     <h3 style="margin: 0 0 8px 0;">Backend & Data</h3>
     <ul style="margin: 0; padding-left: 18px; line-height: 1.6; font-size: 14px;">
       <li>FastAPI services with clean routes</li>
-      <li>PostgreSQL with AQO-ML research (see repo below)</li>
+      <li>PostgreSQL with AQO-ML research</li>
       <li>Next.js frontends for real users</li>
     </ul>
   </div>
@@ -76,42 +76,6 @@
       <li>PyTorch · scikit-learn · RAG · LangChain · LangGraph · Ollama</li>
     </ul>
   </div>
-</div>
-
-<!-- ====== FEATURED WORK ====== -->
-<div style="margin-top: 18px;">
-  <h2 style="margin: 0 0 10px 0;">Featured repos</h2>
-
-  <!-- My repo (AQO) -->
-  <a href="https://github.com/hqvjet/aqo">
-    <img alt="aqo pinned" src="https://github-readme-stats.vercel.app/api/pin/?username=hqvjet&repo=aqo" />
-  </a>
-
-  <!-- External repos (embed pin cards) -->
-  <div style="display:flex; flex-wrap: wrap; gap: 8px; margin-top: 8px;">
-    <a href="https://github.com/langchain-ai/langgraph">
-      <img alt="langgraph pinned" src="https://github-readme-stats.vercel.app/api/pin/?username=langchain-ai&repo=langgraph" />
-    </a>
-    <a href="https://github.com/langchain-ai/langchain">
-      <img alt="langchain pinned" src="https://github-readme-stats.vercel.app/api/pin/?username=langchain-ai&repo=langchain" />
-    </a>
-    <a href="https://github.com/ollama/ollama">
-      <img alt="ollama pinned" src="https://github-readme-stats.vercel.app/api/pin/?username=ollama&repo=ollama" />
-    </a>
-    <a href="https://github.com/tiangolo/fastapi">
-      <img alt="fastapi pinned" src="https://github-readme-stats.vercel.app/api/pin/?username=tiangolo&repo=fastapi" />
-    </a>
-    <a href="https://github.com/pytorch/pytorch">
-      <img alt="pytorch pinned" src="https://github-readme-stats.vercel.app/api/pin/?username=pytorch&repo=pytorch" />
-    </a>
-  </div>
-</div>
-
-<!-- ====== STATS ====== -->
-<div style="margin-top: 18px; display: flex; flex-wrap: wrap; gap: 12px;">
-  <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=hqvjet&show_icons=true&include_all_commits=true&rank_icon=github" />
-  <img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hqvjet&layout=compact&langs_count=8" />
-  <img alt="streak" src="https://streak-stats.demolab.com?user=hqvjet" />
 </div>
 
 <!-- ====== CONTACT / NOTES ====== -->
