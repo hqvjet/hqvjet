@@ -39,21 +39,48 @@ New tech? I jump in.</i>
 
 ## Snapshots
 
-<div align="center">
-
-<!-- overall stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=hqvjet&show_icons=true&rank_icon=github" alt="GitHub stats" />
-
-<!-- language mix -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hqvjet&layout=compact&langs_count=8" alt="Top languages" />
-
-<!-- streaks -->
-<img src="https://streak-stats.demolab.com?user=hqvjet&hide_border=true" alt="GitHub streaks" />
-
-<!-- trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=hqvjet&no-frame=true&no-bg=true&column=4" alt="trophies" />
-
-</div>
+<!-- Clean 2-column grid + unified theme -->
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=hqvjet&show_icons=true&rank_icon=percentile&include_all_commits=true&hide_title=false&hide_border=true&theme=tokyonight"
+        alt="GitHub stats"
+        width="100%"
+        loading="lazy"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=hqvjet&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
+        alt="Top languages"
+        width="100%"
+        loading="lazy"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img
+        src="https://streak-stats.demolab.com?user=hqvjet&theme=tokyonight&hide_border=true"
+        alt="GitHub streak"
+        width="96%"
+        loading="lazy"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <!-- Trophy trimmed to one line; only the useful ones -->
+      <img
+        src="https://github-profile-trophy.vercel.app/?username=hqvjet&theme=onedark&no-bg=true&no-frame=true&row=1&column=7&margin-w=10&margin-h=10&title=MultiLanguage,Commit,PullRequest,Issues,Repositories,Stars,Followers"
+        alt="Trophies"
+        width="96%"
+        loading="lazy"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
