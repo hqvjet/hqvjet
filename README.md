@@ -157,32 +157,35 @@
 
 ## Awards & Honors
 
-<!-- 3-column award cards: compact, image-first, chip-style details -->
+<!-- Modern compact cards — 2 columns, icon-first, chip-style tags -->
 <table align="center" width="100%">
   <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h4>🏆 Champion — VKU</h4>
-      <p><strong>Scientific Research Competition 2025</strong></p>
-      <p><code>2025</code> <code>Champion</code> <code>VKU</code></p>
+      <p>Scientific Research Competition</p>
+      <p><code>2025</code> <code>Champion</code> <code>Research</code></p>
     </td>
-    <td width="33%" valign="top">
-      <h4>📝 Paper — ACIIDS 2025</h4>
-      <p><strong>Published</strong> (Scopus-indexed)</p>
+    <td width="50%" valign="top">
+      <h4>📝 ACIIDS 2025 — Paper</h4>
+      <p>Published (Scopus-indexed)</p>
       <p><code>2025</code> <code>Publication</code> <code>Scopus</code></p>
-    </td>
-    <td width="33%" valign="top">
-      <h4>📝 Paper — CITA 2025</h4>
-      <p><strong>Accepted</strong> (Scopus-indexed)</p>
-      <p><code>2025</code> <code>Accepted</code> <code>Scopus</code></p>
     </td>
   </tr>
 
   <tr>
     <td valign="top">
+      <h4>📝 CITA 2025 — Paper</h4>
+      <p>Accepted (Scopus-indexed)</p>
+      <p><code>2025</code> <code>Accepted</code> <code>Scopus</code></p>
+    </td>
+    <td valign="top">
       <h4>🥈 Second Prize</h4>
       <p>AI Challenge — <em>Danang AI for Life 2024</em></p>
       <p><code>2024</code> <code>AI&nbsp;Challenge</code></p>
     </td>
+  </tr>
+
+  <tr>
     <td valign="top">
       <h4>🎓 Conference</h4>
       <p><strong>Certificate of Attendance</strong><br/>
@@ -191,7 +194,7 @@
     </td>
     <td valign="top">
       <h4>🥉 Third Prize — VKU</h4>
-      <p>Scientific Research Competition 2024</p>
+      <p>Scientific Research Competition</p>
       <p><code>2024</code> <code>Third&nbsp;Prize</code> <code>VKU</code></p>
     </td>
   </tr>
@@ -200,18 +203,22 @@
     <td valign="top">
       <h4>🌏 Exchange Camp</h4>
       <p><strong>Participant</strong> — KMUTNB–VKU Innovation & Intercultural Exchange Camp (IIEC)</p>
-      <p><code>2024</code> <code>IIEC</code> <code>KMUTNB–VKU</code></p>
+      <p><code>2024</code> <code>IIEC</code></p>
     </td>
     <td valign="top">
       <h4>🏅 ICPC Vietnam</h4>
       <p><strong>Certificate of Achievement</strong> — Provincial & National Programming Contest</p>
       <p><code>2022</code> <code>ICPC</code></p>
     </td>
+  </tr>
+
+  <tr>
     <td valign="top">
       <h4>🥉 Third Prize</h4>
       <p>Provincial competitive programming — Quang Tri Province</p>
       <p><code>Competitive&nbsp;Programming</code> <code>Quang&nbsp;Tri</code></p>
     </td>
+    <td></td>
   </tr>
 </table>
 
