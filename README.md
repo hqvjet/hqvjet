@@ -44,10 +44,9 @@ New tech? I jump in.</i>
   <tr>
     <td width="50%" align="center">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=hqvjet&show_icons=true&rank_icon=percentile&include_all_commits=true&hide_title=false&hide_border=true&theme=tokyonight"
-        alt="GitHub stats"
+        src="https://github-readme-stats.vercel.app/api?username=hqvjet&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight"
         width="100%"
-        loading="lazy"
+        alt="GitHub stats"
       />
     </td>
     <td width="50%" align="center">
