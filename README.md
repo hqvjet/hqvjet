@@ -1,27 +1,33 @@
 <!-- Profile README for @hqvjet -->
-<div align="center">
+<!-- Hero / Header -->
+<h1 align="center">Hi, I'm Việt 👋</h1>
 
-<h1>Hi, I'm Việt 👋</h1>
-<p><b>Research student</b> at VKU, Danang & <b>IT staff @ VPBank</b> • Hanoi, Viet Nam 🇻🇳</p>
-
-<i>I’m curious, hands-on, and not afraid to break things (safely) to learn fast.
-New tech? I jump in.</i>
-
-<br/>
-
-<!-- Tech icon strip -->
-<img src="https://skillicons.dev/icons?i=aws,nextjs,fastapi,postgres,pytorch,sklearn,linux,windows,git,githubactions,docker&perline=11" alt="tech stack icons" />
-
-<!-- Niche stack badges -->
-<p>
-  <img src="https://img.shields.io/badge/Agentic%20AI-in%20practice-111" alt="Agentic AI" />
-  <img src="https://img.shields.io/badge/LangChain-%F0%9F%A7%A0-111" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/LangGraph-%E2%9A%99%EF%B8%8F-111" alt="LangGraph"/>
-  <img src="https://img.shields.io/badge/Ollama-local%20LLMs-111" alt="Ollama"/>
-  <img src="https://img.shields.io/badge/RAG-built-111" alt="RAG"/>
+<p align="center">
+  <strong>Research student</strong> &amp; <strong>IT staff @ VPBank</strong> • Hanoi, Viet Nam 🇻🇳
 </p>
 
-</div>
+<p align="center">
+  <em>
+    I'm curious, hands-on, and not afraid to break things (safely) to learn fast.<br/>
+    New tech? I jump in.
+  </em>
+</p>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=aws,nextjs,fastapi,postgres,pytorch,sklearn,linux,windows,git,githubactions,docker&perline=11&v=2"
+    alt="tech stack icons"
+  />
+</p>
+
+<!-- Clean badges (no emoji to avoid mis-render) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Agentic%20AI-in%20practice-111?style=flat-square&v=2" alt="Agentic AI"/>
+  <img src="https://img.shields.io/badge/LangChain-ready-111?style=flat-square&v=2" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/LangGraph-orchestrate-111?style=flat-square&v=2" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/Ollama-local%20LLMs-111?style=flat-square&v=2" alt="Ollama"/>
+  <img src="https://img.shields.io/badge/RAG-built-111?style=flat-square&v=2" alt="RAG"/>
+</p>
 
 ---
 
