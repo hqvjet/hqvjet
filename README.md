@@ -33,72 +33,87 @@
 
 ## What I work with
 
-<!-- Emphasize strengths first: AI/ML centered on top -->
+<!-- 3×2 grid; chips wrap cleanly across devices -->
 <table align="center" width="100%">
   <tr>
-    <!-- Left wing -->
     <td width="33%">
-      <h4 align="left">☁️ Cloud (AWS)</h4>
-      <p align="left">
-        <img src="https://skillicons.dev/icons?i=aws&v=2" height="28" alt="AWS"/>
+      <h4 align="center">☁️ Cloud (AWS)</h4>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=aws&v=3" height="28" alt="AWS"/>
       </p>
-      <sub>Lambda · API Gateway · Amplify · DynamoDB · VPC · Bedrock · CloudWatch</sub>
+      <p align="center">
+        <code>Lambda</code> <code>API&nbsp;Gateway</code> <code>Amplify</code><br/>
+        <code>DynamoDB</code> <code>VPC</code> <code>Bedrock</code> <code>CloudWatch</code>
+      </p>
     </td>
-    <!-- Center focus -->
     <td width="34%">
       <h4 align="center">🧠 AI / ML (Focus)</h4>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn&perline=3&v=2" height="28" alt="Python, PyTorch, scikit-learn"/>
+        <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn&perline=3&v=3" height="28" alt="Python, PyTorch, scikit-learn"/>
       </p>
-      <sub>
-        DL: LSTM, CNN, Transformer · ML: KNN, Linear Regression, Decision Tree · Optimizers: SGD, Adam, Momentum
-      </sub>
-    </td>
-    <!-- Right wing -->
-    <td width="33%">
-      <h4 align="right">🗄️ Data & DB</h4>
-      <p align="right">
-        <img src="https://skillicons.dev/icons?i=postgres&v=2" height="28" alt="PostgreSQL"/>
-      </p>
-      <sub>PostgreSQL (AQO + ML for query optimization)</sub>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h4>🌐 Web</h4>
-      <p>
-        <img src="https://skillicons.dev/icons?i=nextjs,fastapi&perline=2&v=2" height="28" alt="Next.js, FastAPI"/>
-      </p>
-      <sub>Next.js · FastAPI</sub>
-    </td>
-    <td>
-      <h4 align="center">🚀 Ops</h4>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=githubactions,git,docker&perline=3&v=2" height="28" alt="GitHub Actions, Git, Docker"/>
+        <code>LSTM</code> <code>CNN</code> <code>Transformer</code><br/>
+        <code>KNN</code> <code>Linear&nbsp;Regression</code> <code>Decision&nbsp;Tree</code><br/>
+        <code>SGD</code> <code>Adam</code> <code>Momentum</code>
       </p>
-      <sub>CI/CD with GitHub Actions</sub>
     </td>
-    <td align="right">
-      <h4>🧰 Platforms</h4>
-      <p align="right">
-        <img src="https://skillicons.dev/icons?i=linux,windows&perline=2&v=2" height="28" alt="Linux, Windows"/>
+    <td width="33%">
+      <h4 align="center">🗄️ Data & DB</h4>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=postgres&v=3" height="28" alt="PostgreSQL"/>
       </p>
-      <sub>Linux & Windows</sub>
+      <p align="center">
+        <code>PostgreSQL</code> <code>AQO&nbsp;+&nbsp;ML</code>
+        <a href="https://github.com/hqvjet/aqo"><code>aqo&nbsp;repo</code></a>
+      </p>
     </td>
   </tr>
 
   <tr>
-    <td colspan="3" align="center">
-      <h4>🎯 Agentic AI &amp; RAG</h4>
-      <p>
-        <img src="https://img.shields.io/badge/LangChain-ready-111?style=flat-square&v=3" alt="LangChain"/>
-        <img src="https://img.shields.io/badge/LangGraph-orchestrate-111?style=flat-square&v=3" alt="LangGraph"/>
-        <img src="https://img.shields.io/badge/Ollama-local%20LLMs-111?style=flat-square&v=3" alt="Ollama"/>
-        <img src="https://img.shields.io/badge/RAG-built-111?style=flat-square&v=3" alt="RAG"/>
+    <td>
+      <h4 align="center">🌐 Web</h4>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=nextjs,fastapi&perline=2&v=3" height="28" alt="Next.js, FastAPI"/>
+      </p>
+      <p align="center">
+        <code>Next.js</code> <code>FastAPI</code>
+      </p>
+    </td>
+    <td>
+      <h4 align="center">🚀 Ops</h4>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=githubactions,git,docker&perline=3&v=3" height="28" alt="GitHub Actions, Git, Docker"/>
+      </p>
+      <p align="center">
+        <code>CI/CD</code> <code>GitHub&nbsp;Actions</code>
+      </p>
+    </td>
+    <td>
+      <h4 align="center">🧰 Platforms</h4>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=linux,windows&perline=2&v=3" height="28" alt="Linux, Windows"/>
+      </p>
+      <p align="center">
+        <code>Linux</code> <code>Windows</code>
       </p>
     </td>
   </tr>
 </table>
+
+<!-- Agentic block: full width, minimal text -->
+<p align="center">
+  <b>🎯 Agentic AI &amp; RAG</b><br/>
+  <code>LangChain</code> <code>LangGraph</code> <code>Ollama</code> <code>RAG</code>
+</p>
+
+<!-- Optional details (kept folded to avoid “đọc sớ”) -->
+<details>
+  <summary><i>More details (open if you like specs)</i></summary>
+
+- Pipelines: data → training → eval → deploy on AWS  
+- RAG: chunking, retrieval tuning, evals  
+- Orchestration: LangGraph (tools, state, guards)
+</details>
 
 ---
 
