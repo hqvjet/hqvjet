@@ -62,8 +62,8 @@ New tech? I jump in.</i>
   <tr>
     <td colspan="2" align="center">
       <img
-        src="https://streak-stats.demolab.com?user=hqvjet&hide_border=true&theme=tokyonight&date_format=M%20j%5B,%20Y%5D&v=2"
-        alt="Contribution streak"
+        src="https://github-readme-activity-graph.vercel.app/graph?username=hqvjet&theme=tokyo-night&hide_border=true&area=true"
+        alt="Activity graph"
         width="96%"
         loading="lazy"
       />
