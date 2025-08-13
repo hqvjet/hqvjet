@@ -1,9 +1,9 @@
 <!-- Profile README for @hqvjet -->
 <!-- Hero / Header -->
-<h1 align="center">Hi, I'm Việt 👋</h1>
+<h1 align="center">Hi, I'm Hoang Quoc Viet (Raphael Hoang) 👋</h1>
 
 <p align="center">
-  <strong>Research student</strong> • Danang &amp; <strong>IT staff @ VPBank</strong> • Hanoi, Viet Nam 🇻🇳
+  <strong>Part-time Research student</strong> @ VKU • Danang &amp; <strong>IT staff @ VPBank</strong> • Hanoi, Viet Nam 🇻🇳
 </p>
 
 <p align="center">
