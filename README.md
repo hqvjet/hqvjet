@@ -2,7 +2,7 @@
 <div align="center">
 
 <h1>Hi, I'm Việt 👋</h1>
-<p><b>Research student</b> & <b>IT staff @ VPBank</b> • Hanoi, Viet Nam 🇻🇳</p>
+<p><b>Research student</b> at VKU, Danang & <b>IT staff @ VPBank</b> • Hanoi, Viet Nam 🇻🇳</p>
 
 <i>I’m curious, hands-on, and not afraid to break things (safely) to learn fast.
 New tech? I jump in.</i>
@@ -37,16 +37,6 @@ New tech? I jump in.</i>
 
 ---
 
-## Featured work
-
-<a href="https://github.com/hqvjet/aqo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hqvjet&repo=aqo&show_owner=true" alt="Pinned: aqo" />
-</a>
-
-> PostgreSQL + AQO + ML to optimize queries. I test, measure, and ship.
-
----
-
 ## Snapshots
 
 <div align="center">
@@ -72,13 +62,6 @@ New tech? I jump in.</i>
 - Agentic AI on AWS Bedrock • LangGraph orchestration  
 - Practical RAG (clean data, strong evals)  
 - Postgres query optimization with AQO + ML
-
----
-
-## How to reach me
-
-- Open a discussion or issue here: <a href="https://github.com/hqvjet/hqvjet">github.com/hqvjet/hqvjet</a>  
-- Or ping me on any repo you see above. I read issues.
 
 ---
 
