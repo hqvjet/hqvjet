@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Hoang Quoc Viet (Raphael Hoang) 👋</h1>
 
 <p align="center">
-  <strong>Part-time Research student @ VKU</strong> • Danang &amp; <strong>Young Talent @ VPBank</strong> • Hanoi, Viet Nam 🇻🇳
+  <strong>Part-time Research student @ VKU</strong> • Danang &amp;
 </p>
 
 <p align="center">
