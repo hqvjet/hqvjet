@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Hoang Quoc Viet (Raphael Hoang) 👋</h1>
 
 <p align="center">
-  <strong>Part-time Research student @ VKU</strong> • Danang
+  <strong>NLP Research Scientist</strong> • Danang
 </p>
 
 <p align="center">
